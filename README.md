@@ -5,7 +5,8 @@ This repository contains a promotional in-store poster I created for **Tasman Fu
 The goal was to design a clear, high-impact retail visual that supports brand communication and customer engagement.
 
 ## Poster Preview
-![Tasman Epsom In-Store Poster](assets/tasman-epsom-instore-poster.jpg)
+![Tasman Epsom In-Store Poster](tasman-epsom-instore-poster.jpg)
+
 
 ## Skills Demonstrated
 - Marketing communication & messaging
